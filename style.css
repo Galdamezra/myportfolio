@@ -1,0 +1,16 @@
+.navbar {
+	width: 100%;
+	background-color: #e0e0e0;
+	overflow: auto;	
+}
+.brand {
+	float: left;
+}
+.nav-links {
+	float: right;
+}
+
+.nav-links div {
+	float: right;
+	margin-right: 15px;
+}
